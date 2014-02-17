@@ -1,4 +1,4 @@
-lumin
+Lumin
 =====
 
-Android sounds synthesiser proof of concept, built in the early days of Android 
+Android sound synthesiser proof of concept, built in the early days of Android 
